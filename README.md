@@ -38,7 +38,7 @@ My days are divided between predictive models, scatter plots... and stages where
 
 ## 🌍 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jhon-mario-cano-torres-407b402b6)  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jhon-mario-cano-torres-407b402b6)  
 - **Instagram – Puro Cuento**: [Puro Cuento Instagram](https://www.instagram.com/purocuento_pereira?igsh=MXRxcnppN3E2cTk3)  
 
 ---
