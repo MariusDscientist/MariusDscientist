@@ -44,8 +44,8 @@ Mi día se reparte entre modelos predictivos, gráficos de dispersión… y esce
 ---
 
 ## 📊 Mis números en GitHub  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusDscientist&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusDscientist&layout=compact&theme=radical)
 
 ---
 
