@@ -13,8 +13,8 @@ Mi día se reparte entre modelos predictivos, gráficos de dispersión… y esce
 
 ## 🎯 Lo que hago
 
-- **Analizo y creo**: modelos de visión por computadora, segmentación y procesamiento de imágenes.  
-- **Investigo y descubro**: patrones ocultos en datos médicos, como en mi proyecto de **detección de sepsis con Transformada Wavelet**.  
+- **Analizo y creo**: modelos de visión por computadora, detecion de objetos y procesamiento de imágenes.  
+- **Investigo y descubro**: patrones ocultos en datos, como en mi proyecto de **detección de sepsis con Transformada Wavelet**.  
 - **Cuento y conecto**: historias que viajan desde la tradición oral indígena hasta creaciones propias, cada 15 días en el parque *La Julia* (Pereira, Colombia).
 
 ---
@@ -23,7 +23,7 @@ Mi día se reparte entre modelos predictivos, gráficos de dispersión… y esce
 
 | Lenguajes | Ciencia de Datos | Visualización | Herramientas |
 |-----------|------------------|--------------|--------------|
-| Python, MATLAB, C#, SQL | TensorFlow, Keras, Scikit-learn | Matplotlib, Seaborn, OpenCV | Git, GitHub, Jupyter, Visual Studio, Google Colab |
+| Python, MATLAB, SQL | TensorFlow, Keras, Scikit-learn | Matplotlib, Seaborn, OpenCV | Git, GitHub, Jupyter, Visual Studio, Google Colab |
 
 ---
 
@@ -38,8 +38,8 @@ Mi día se reparte entre modelos predictivos, gráficos de dispersión… y esce
 
 ## 🌍 Encuéntrame
 
-- **LinkedIn**: [Tu enlace aquí]  
-- **Instagram – Puro Cuento**: [Tu enlace aquí]  
+- **LinkedIn**: (https://www.linkedin.com/in/jhon-mario-cano-torres-407b402b6)  
+- **Instagram – Puro Cuento**: (https://www.instagram.com/purocuento_pereira?igsh=MXRxcnppN3E2cTk3 )  
 
 ---
 
