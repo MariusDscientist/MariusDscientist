@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h1>🌌 Jhon Mario Cano Torres</h1>
 <blockquote>“Between algorithms and words, I see the world in data... and in stories.”</blockquote>
