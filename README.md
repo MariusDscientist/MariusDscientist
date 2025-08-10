@@ -45,10 +45,13 @@ My days are divided between predictive models, scatter plots... and stages where
 
 ## 📊 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariusDscientist&show_icons=true&theme=radical)  
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=MariusDscientist&show_icons=true&hide_rank=true&theme=radical)
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=MariusDscientist&count_private=false&hide_title=false&show_icons=false&theme=radical)
+![My GitHub Avatar](https://avatars.githubusercontent.com/u/103070824?v=4)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusDscientist&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariusDscientist&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=MariusDscientist&theme=gruvbox&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MariusDscientist&theme=gruvbox&row=3&column=3)
 
 ---
 
