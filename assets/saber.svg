@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" role="img" aria-label="divider"><style>
+.blade{transform-origin:150px 18px;animation:ig 7s ease-in-out infinite}
+@keyframes ig{0%{transform:scaleX(0)}9%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.glow{animation:hum 1.3s ease-in-out infinite alternate}
+@keyframes hum{from{opacity:.55}to{opacity:.95}}
+</style><defs><filter id="f" x="-5%" y="-300%" width="110%" height="700%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<g class="blade"><rect class="glow" x="150" y="12" width="1010" height="12" rx="6" fill="#4BD5EE" filter="url(#f)"/>
+<rect x="150" y="14.5" width="1010" height="7" rx="3.5" fill="#eafcff"/></g>
+<rect x="40" y="10" width="112" height="16" rx="3" fill="#8b929c"/>
+<rect x="52" y="8" width="8" height="20" rx="1.5" fill="#2b2f36"/><rect x="66" y="8" width="8" height="20" rx="1.5" fill="#2b2f36"/>
+<rect x="80" y="8" width="8" height="20" rx="1.5" fill="#2b2f36"/><rect x="112" y="13" width="14" height="6" rx="1" fill="#c0392b"/>
+<rect x="142" y="7" width="10" height="22" rx="2" fill="#5d646e"/></svg>

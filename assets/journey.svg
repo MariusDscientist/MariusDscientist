@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Career route: Physics Engineering at Universidad Tecnológica de Pereira 2018 to 2025; Digital Literacy at Banco de la República 2023 to 2024; Junior Data Scientist at Analytix Data 2025; AI Automation at HUBU 2025; now Data and AI Engineer in R and D and I.">
+<style>
+.s0,.t1,.t2,.t3{fill:#fff}
+.s0{opacity:.55}
+.t1{animation:tw 3.1s ease-in-out infinite}
+.t2{animation:tw 4.7s ease-in-out -1.5s infinite}
+.t3{animation:tw 6.3s ease-in-out -3s infinite}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+
+.route{fill:none;stroke:#4BD5EE;stroke-width:2.5;stroke-dasharray:3 11;stroke-linecap:round;animation:fly 1.6s linear infinite}
+@keyframes fly{to{stroke-dashoffset:-28}}
+.yr{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;font-size:17px;fill:#4BD5EE;text-anchor:middle;letter-spacing:2px}
+.ro{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:800;font-size:16px;fill:#fff;text-anchor:middle;letter-spacing:1px}
+.or{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:15px;fill:#b9c0d4;text-anchor:middle}
+.pulse{fill:none;stroke:#FFE81F;stroke-width:2;transform-box:fill-box;transform-origin:center;animation:pu 2.4s ease-out infinite}
+@keyframes pu{0%{transform:scale(1);opacity:.9}100%{transform:scale(2.3);opacity:0}}
+.ship{fill:#fff}
+</style>
+<defs><radialGradient id="g" cx="50%" cy="45%" r="75%">
+<stop offset="0" stop-color="#0b1026"/><stop offset="1" stop-color="#000"/></radialGradient></defs>
+<rect width="1200" height="340" rx="14" fill="url(#g)"/>
+<circle class="s0" cx="747" cy="252" r="1.8"/>
+<circle class="t1" cx="35" cy="158" r="0.8"/>
+<circle class="t2" cx="1081" cy="38" r="1"/>
+<circle class="t1" cx="457" cy="35" r="0.8"/>
+<circle class="s0" cx="877" cy="139" r="0.8"/>
+<circle class="s0" cx="192" cy="271" r="0.8"/>
+<circle class="t1" cx="741" cy="43" r="0.6"/>
+<circle class="t2" cx="251" cy="73" r="0.8"/>
+<circle class="t2" cx="347" cy="327" r="1.3"/>
+<circle class="s0" cx="218" cy="329" r="0.8"/>
+<circle class="t2" cx="359" cy="123" r="0.8"/>
+<circle class="s0" cx="317" cy="113" r="1.3"/>
+<circle class="t1" cx="4" cy="230" r="1"/>
+<circle class="t3" cx="372" cy="278" r="1"/>
+<circle class="t1" cx="222" cy="161" r="0.8"/>
+<circle class="t3" cx="307" cy="319" r="1.8"/>
+<circle class="t3" cx="1014" cy="6" r="1"/>
+<circle class="t1" cx="452" cy="286" r="1"/>
+<circle class="t1" cx="849" cy="212" r="0.8"/>
+<circle class="t3" cx="907" cy="316" r="1"/>
+<circle class="s0" cx="615" cy="304" r="1"/>
+<circle class="t3" cx="130" cy="254" r="1"/>
+<circle class="t2" cx="44" cy="322" r="0.6"/>
+<circle class="t3" cx="409" cy="208" r="0.8"/>
+<circle class="t3" cx="331" cy="239" r="0.6"/>
+<circle class="t2" cx="823" cy="104" r="0.6"/>
+<circle class="t2" cx="865" cy="105" r="1"/>
+<circle class="s0" cx="864" cy="28" r="1.3"/>
+<circle class="s0" cx="1108" cy="11" r="1.8"/>
+<circle class="s0" cx="413" cy="85" r="1.8"/>
+<circle class="t1" cx="175" cy="333" r="1.8"/>
+<circle class="t2" cx="962" cy="114" r="0.8"/>
+<circle class="s0" cx="1178" cy="192" r="0.8"/>
+<circle class="t1" cx="128" cy="148" r="0.8"/>
+<circle class="s0" cx="1014" cy="100" r="1"/>
+<circle class="s0" cx="1023" cy="332" r="1"/>
+<circle class="t3" cx="827" cy="108" r="1"/>
+<circle class="s0" cx="564" cy="307" r="0.6"/>
+<circle class="s0" cx="986" cy="181" r="0.8"/>
+<circle class="t3" cx="1041" cy="61" r="1"/>
+<circle class="t3" cx="618" cy="186" r="1.3"/>
+<circle class="s0" cx="76" cy="270" r="1"/>
+<circle class="s0" cx="797" cy="258" r="1"/>
+<circle class="t3" cx="845" cy="95" r="1"/>
+<circle class="t3" cx="924" cy="235" r="1"/>
+<circle class="s0" cx="780" cy="197" r="0.6"/>
+<circle class="t3" cx="656" cy="85" r="1.8"/>
+<circle class="t3" cx="556" cy="278" r="1.8"/>
+<circle class="s0" cx="417" cy="219" r="1.8"/>
+<circle class="s0" cx="420" cy="287" r="1.8"/>
+<circle class="t2" cx="1171" cy="325" r="1.3"/>
+<circle class="s0" cx="635" cy="56" r="1"/>
+<circle class="s0" cx="339" cy="27" r="1.8"/>
+<circle class="s0" cx="206" cy="265" r="1.3"/>
+<circle class="s0" cx="799" cy="143" r="1.3"/>
+<circle class="t1" cx="930" cy="217" r="1.8"/>
+<circle class="t2" cx="235" cy="199" r="1.3"/>
+<circle class="t1" cx="263" cy="233" r="1.8"/>
+<circle class="t1" cx="1184" cy="333" r="0.8"/>
+<circle class="s0" cx="1070" cy="38" r="0.8"/>
+<circle class="t3" cx="232" cy="12" r="1"/>
+<circle class="t2" cx="456" cy="208" r="1.3"/>
+<circle class="t3" cx="285" cy="307" r="0.6"/>
+<circle class="t1" cx="486" cy="95" r="1"/>
+<circle class="s0" cx="827" cy="186" r="0.6"/>
+<circle class="s0" cx="736" cy="32" r="1.3"/>
+<circle class="t2" cx="407" cy="198" r="1"/>
+<circle class="s0" cx="503" cy="276" r="1.8"/>
+<circle class="s0" cx="443" cy="48" r="1.3"/>
+<circle class="s0" cx="677" cy="325" r="0.8"/>
+<circle class="t1" cx="109" cy="279" r="1.8"/>
+<circle class="s0" cx="458" cy="111" r="1.3"/>
+<circle class="s0" cx="169" cy="214" r="1.3"/>
+<circle class="t3" cx="515" cy="332" r="1"/>
+<circle class="t2" cx="575" cy="241" r="1"/>
+<circle class="s0" cx="715" cy="88" r="1"/>
+<circle class="s0" cx="301" cy="7" r="1"/>
+<circle class="t1" cx="1115" cy="49" r="0.6"/>
+<circle class="t3" cx="792" cy="327" r="0.8"/>
+<circle class="t1" cx="48" cy="46" r="1"/>
+<circle class="s0" cx="576" cy="191" r="0.8"/>
+<circle class="t2" cx="938" cy="84" r="1"/>
+<circle class="s0" cx="866" cy="97" r="1"/>
+<circle class="t1" cx="1191" cy="176" r="1.3"/>
+<circle class="s0" cx="19" cy="43" r="1"/>
+<circle class="s0" cx="850" cy="209" r="1.8"/>
+<circle class="s0" cx="32" cy="119" r="1.8"/>
+<circle class="s0" cx="159" cy="1" r="1.3"/>
+<circle class="s0" cx="823" cy="37" r="1.8"/>
+<circle class="s0" cx="229" cy="146" r="1"/>
+<circle class="s0" cx="691" cy="241" r="1.8"/>
+<circle class="s0" cx="1030" cy="286" r="1"/>
+<circle class="s0" cx="819" cy="245" r="1"/>
+<circle class="s0" cx="996" cy="22" r="0.6"/>
+<circle class="t3" cx="699" cy="220" r="1"/>
+<circle class="s0" cx="171" cy="163" r="1.3"/>
+<circle class="s0" cx="1168" cy="183" r="1"/>
+<circle class="t2" cx="650" cy="17" r="1.8"/>
+<circle class="t1" cx="321" cy="29" r="0.6"/>
+<circle class="s0" cx="400" cy="146" r="0.6"/>
+<circle class="t2" cx="841" cy="17" r="0.6"/>
+<circle class="t2" cx="737" cy="280" r="0.6"/>
+<circle class="t2" cx="1193" cy="240" r="1"/>
+<circle class="t1" cx="220" cy="63" r="0.8"/>
+<circle class="s0" cx="747" cy="15" r="0.6"/>
+<circle class="s0" cx="895" cy="95" r="1.3"/>
+<circle class="t2" cx="142" cy="136" r="1.3"/>
+<circle class="s0" cx="12" cy="31" r="1.8"/>
+<circle class="t3" cx="587" cy="120" r="1.8"/>
+<circle class="t2" cx="1098" cy="47" r="1"/>
+<path id="rt" class="route" d="M130,190 L365,150 L600,190 L835,150 L1070,190"/>
+<path class="ship" d="M-9,-5 L9,0 L-9,5 L-5,0 Z"><animateMotion dur="14s" repeatCount="indefinite" rotate="auto"><mpath href="#rt"/></animateMotion></path>
+<defs><radialGradient id="p0" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".35" stop-color="#c96a3a"/><stop offset="1" stop-color="#05060d"/></radialGradient></defs>
+<ellipse cx="130" cy="190" rx="33" ry="5" fill="none" stroke="#c96a3a" stroke-width="2" opacity=".8" transform="rotate(-18 130 190)"/>
+<circle cx="130" cy="190" r="20" fill="url(#p0)"/>
+<text class="yr" x="130" y="248">2018 – 2025</text><text class="ro" x="130" y="272">PHYSICS ENGINEERING</text><text class="or" x="130" y="294">Universidad Tecnológica de Pereira</text>
+<defs><radialGradient id="p1" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".35" stop-color="#7a9e6b"/><stop offset="1" stop-color="#05060d"/></radialGradient></defs>
+<circle cx="365" cy="150" r="17" fill="url(#p1)"/>
+<text class="yr" x="365" y="64">2023 – 2024</text><text class="ro" x="365" y="88">DIGITAL LITERACY</text><text class="or" x="365" y="110">Banco de la República</text>
+<defs><radialGradient id="p2" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".35" stop-color="#4b8fd6"/><stop offset="1" stop-color="#05060d"/></radialGradient></defs>
+<ellipse cx="600" cy="190" rx="34" ry="5" fill="none" stroke="#4b8fd6" stroke-width="2" opacity=".8" transform="rotate(-18 600 190)"/>
+<circle cx="600" cy="190" r="21" fill="url(#p2)"/>
+<text class="yr" x="600" y="248">2025</text><text class="ro" x="600" y="272">JUNIOR DATA SCIENTIST</text><text class="or" x="600" y="294">Analytix Data</text>
+<defs><radialGradient id="p3" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".35" stop-color="#b48ad9"/><stop offset="1" stop-color="#05060d"/></radialGradient></defs>
+<circle cx="835" cy="150" r="17" fill="url(#p3)"/>
+<text class="yr" x="835" y="64">2025</text><text class="ro" x="835" y="88">AI AUTOMATION</text><text class="or" x="835" y="110">HUBU</text>
+<defs><radialGradient id="p4" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".35" stop-color="#FFE81F"/><stop offset="1" stop-color="#05060d"/></radialGradient></defs>
+<circle class="pulse" cx="1070" cy="190" r="25"/>
+<circle cx="1070" cy="190" r="25" fill="url(#p4)"/>
+<text class="yr" x="1070" y="248">NOW</text><text class="ro" x="1070" y="272">DATA &amp; AI ENGINEER</text><text class="or" x="1070" y="294">R&amp;D&amp;I</text>
+</svg>

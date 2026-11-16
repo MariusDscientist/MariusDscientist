@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-label="Episode I, The Data Awakens. Opening crawl; full text in the transcript below.">
+<style>
+.s0,.t1,.t2,.t3{fill:#fff}
+.s0{opacity:.55}
+.t1{animation:tw 3.1s ease-in-out infinite}
+.t2{animation:tw 4.7s ease-in-out -1.5s infinite}
+.t3{animation:tw 6.3s ease-in-out -3s infinite}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+
+.ln{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;font-size:34px;fill:#FFE81F;text-anchor:middle;opacity:0;
+ animation:crawl 40.0s cubic-bezier(.22,.55,.5,.88) infinite}
+.ti{font-size:40px;letter-spacing:4px}
+@keyframes crawl{0%{transform:translate(600px,520px) scale(1.3);opacity:1}
+ 62%{opacity:1}
+ 100%{transform:translate(600px,66px) scale(.2);opacity:0}}
+</style>
+<defs><radialGradient id="g" cx="50%" cy="45%" r="75%">
+<stop offset="0" stop-color="#0b1026"/><stop offset="1" stop-color="#000"/></radialGradient></defs>
+<rect width="1200" height="460" rx="14" fill="url(#g)"/>
+<defs><clipPath id="c"><rect width="1200" height="460" rx="14"/></clipPath>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="1"/>
+<stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient></defs>
+<circle class="t3" cx="198" cy="317" r="1.8"/>
+<circle class="s0" cx="575" cy="99" r="1"/>
+<circle class="t1" cx="220" cy="243" r="0.6"/>
+<circle class="t2" cx="445" cy="269" r="0.6"/>
+<circle class="t1" cx="953" cy="107" r="0.8"/>
+<circle class="s0" cx="524" cy="458" r="1"/>
+<circle class="s0" cx="530" cy="440" r="1.3"/>
+<circle class="t1" cx="833" cy="298" r="1"/>
+<circle class="t1" cx="186" cy="376" r="0.6"/>
+<circle class="s0" cx="544" cy="254" r="1"/>
+<circle class="s0" cx="582" cy="86" r="0.6"/>
+<circle class="t2" cx="1039" cy="108" r="0.8"/>
+<circle class="s0" cx="809" cy="369" r="1.8"/>
+<circle class="s0" cx="1187" cy="33" r="1.3"/>
+<circle class="t2" cx="671" cy="178" r="1"/>
+<circle class="s0" cx="1065" cy="188" r="1"/>
+<circle class="s0" cx="602" cy="146" r="1"/>
+<circle class="s0" cx="319" cy="384" r="0.8"/>
+<circle class="s0" cx="3" cy="32" r="1.3"/>
+<circle class="s0" cx="266" cy="280" r="1.3"/>
+<circle class="t3" cx="135" cy="308" r="1.8"/>
+<circle class="t3" cx="1000" cy="153" r="1.3"/>
+<circle class="s0" cx="295" cy="78" r="0.8"/>
+<circle class="s0" cx="450" cy="314" r="1.8"/>
+<circle class="t2" cx="1078" cy="441" r="1"/>
+<circle class="s0" cx="1154" cy="272" r="1"/>
+<circle class="t2" cx="607" cy="307" r="0.8"/>
+<circle class="s0" cx="674" cy="202" r="1"/>
+<circle class="t3" cx="69" cy="132" r="1"/>
+<circle class="t1" cx="42" cy="114" r="1"/>
+<circle class="t2" cx="1044" cy="297" r="0.8"/>
+<circle class="t2" cx="895" cy="220" r="1"/>
+<circle class="s0" cx="1151" cy="242" r="1.8"/>
+<circle class="t2" cx="34" cy="98" r="1"/>
+<circle class="s0" cx="1058" cy="277" r="1"/>
+<circle class="t2" cx="697" cy="391" r="1"/>
+<circle class="t1" cx="641" cy="127" r="1.8"/>
+<circle class="t1" cx="459" cy="58" r="1.8"/>
+<circle class="s0" cx="317" cy="150" r="0.8"/>
+<circle class="t2" cx="505" cy="314" r="0.8"/>
+<circle class="t1" cx="170" cy="183" r="0.8"/>
+<circle class="t1" cx="770" cy="362" r="0.6"/>
+<circle class="t3" cx="786" cy="58" r="1.3"/>
+<circle class="t2" cx="476" cy="408" r="1.3"/>
+<circle class="s0" cx="218" cy="394" r="0.8"/>
+<circle class="t1" cx="908" cy="278" r="1.3"/>
+<circle class="t1" cx="949" cy="4" r="1"/>
+<circle class="t2" cx="478" cy="261" r="1.8"/>
+<circle class="t1" cx="303" cy="320" r="1"/>
+<circle class="t3" cx="294" cy="72" r="1.8"/>
+<circle class="s0" cx="981" cy="369" r="1"/>
+<circle class="s0" cx="118" cy="277" r="1.3"/>
+<circle class="t3" cx="881" cy="445" r="1"/>
+<circle class="t2" cx="839" cy="242" r="1.3"/>
+<circle class="t3" cx="76" cy="375" r="0.8"/>
+<circle class="t1" cx="78" cy="303" r="1"/>
+<circle class="s0" cx="1042" cy="300" r="1.8"/>
+<circle class="s0" cx="606" cy="436" r="1.8"/>
+<circle class="t1" cx="565" cy="236" r="1"/>
+<circle class="t1" cx="271" cy="22" r="1"/>
+<circle class="s0" cx="296" cy="324" r="1"/>
+<circle class="t3" cx="547" cy="109" r="1"/>
+<circle class="t1" cx="584" cy="291" r="1.8"/>
+<circle class="s0" cx="45" cy="80" r="1"/>
+<circle class="s0" cx="1069" cy="359" r="1.8"/>
+<circle class="t3" cx="802" cy="395" r="1.8"/>
+<circle class="t3" cx="294" cy="422" r="1"/>
+<circle class="t1" cx="738" cy="379" r="1.8"/>
+<circle class="t2" cx="194" cy="93" r="1"/>
+<circle class="t3" cx="109" cy="81" r="1.3"/>
+<circle class="s0" cx="744" cy="173" r="1.8"/>
+<circle class="s0" cx="1180" cy="456" r="0.8"/>
+<circle class="s0" cx="247" cy="154" r="1.8"/>
+<circle class="t3" cx="818" cy="120" r="0.6"/>
+<circle class="s0" cx="618" cy="435" r="0.8"/>
+<circle class="s0" cx="240" cy="275" r="1"/>
+<circle class="s0" cx="189" cy="181" r="1"/>
+<circle class="t2" cx="553" cy="306" r="1.8"/>
+<circle class="t2" cx="801" cy="286" r="0.6"/>
+<circle class="t3" cx="1170" cy="99" r="1"/>
+<circle class="s0" cx="23" cy="231" r="0.6"/>
+<circle class="t1" cx="729" cy="322" r="0.8"/>
+<circle class="t2" cx="1130" cy="68" r="1"/>
+<circle class="t2" cx="545" cy="411" r="1"/>
+<circle class="s0" cx="162" cy="364" r="1"/>
+<circle class="s0" cx="1009" cy="142" r="1"/>
+<circle class="s0" cx="1059" cy="112" r="1.3"/>
+<circle class="s0" cx="1110" cy="406" r="0.6"/>
+<circle class="t2" cx="88" cy="200" r="1.8"/>
+<circle class="s0" cx="183" cy="229" r="1.3"/>
+<circle class="t3" cx="643" cy="226" r="1.8"/>
+<circle class="t3" cx="183" cy="71" r="1"/>
+<circle class="t1" cx="768" cy="4" r="0.6"/>
+<circle class="t3" cx="224" cy="45" r="0.8"/>
+<circle class="s0" cx="324" cy="27" r="0.6"/>
+<circle class="s0" cx="594" cy="313" r="1.8"/>
+<circle class="s0" cx="190" cy="48" r="1"/>
+<circle class="s0" cx="301" cy="92" r="0.8"/>
+<circle class="t2" cx="508" cy="149" r="0.8"/>
+<circle class="s0" cx="603" cy="335" r="1.3"/>
+<circle class="t3" cx="760" cy="296" r="0.6"/>
+<circle class="t1" cx="593" cy="75" r="1"/>
+<circle class="s0" cx="1088" cy="313" r="0.8"/>
+<circle class="s0" cx="640" cy="418" r="1"/>
+<circle class="t3" cx="252" cy="213" r="1.8"/>
+<circle class="t3" cx="13" cy="162" r="1.3"/>
+<circle class="t2" cx="729" cy="348" r="1.8"/>
+<circle class="s0" cx="219" cy="448" r="1.3"/>
+<circle class="t3" cx="248" cy="459" r="1.3"/>
+<circle class="t1" cx="931" cy="340" r="1"/>
+<circle class="s0" cx="288" cy="276" r="1"/>
+<circle class="t2" cx="806" cy="399" r="1.3"/>
+<circle class="t1" cx="1193" cy="419" r="1.3"/>
+<circle class="t1" cx="1181" cy="340" r="1.8"/>
+<circle class="s0" cx="255" cy="245" r="1"/>
+<circle class="s0" cx="355" cy="74" r="1.8"/>
+<circle class="t2" cx="736" cy="214" r="1"/>
+<circle class="s0" cx="781" cy="116" r="1"/>
+<circle class="s0" cx="267" cy="220" r="0.6"/>
+<circle class="s0" cx="1030" cy="95" r="1"/>
+<circle class="t2" cx="528" cy="139" r="0.8"/>
+<circle class="t1" cx="1192" cy="173" r="1"/>
+<circle class="t3" cx="4" cy="306" r="1.3"/>
+<circle class="s0" cx="692" cy="459" r="0.8"/>
+<circle class="t1" cx="273" cy="338" r="1"/>
+<circle class="s0" cx="33" cy="422" r="0.8"/>
+<circle class="s0" cx="401" cy="163" r="1.3"/>
+<circle class="t1" cx="718" cy="319" r="1"/>
+<circle class="t1" cx="450" cy="115" r="1"/>
+<circle class="t1" cx="1114" cy="91" r="1"/>
+<circle class="t2" cx="895" cy="114" r="0.8"/>
+<circle class="s0" cx="902" cy="430" r="0.6"/>
+<circle class="t2" cx="355" cy="100" r="0.8"/>
+<circle class="t1" cx="597" cy="328" r="0.8"/>
+<circle class="s0" cx="824" cy="154" r="1.8"/>
+<circle class="t3" cx="442" cy="89" r="0.8"/>
+<circle class="t1" cx="69" cy="320" r="1"/>
+<circle class="s0" cx="148" cy="405" r="1.8"/>
+<circle class="s0" cx="25" cy="333" r="1.3"/>
+<circle class="t3" cx="586" cy="247" r="1.3"/>
+<circle class="t2" cx="519" cy="10" r="1"/>
+<circle class="s0" cx="416" cy="347" r="1.8"/>
+<circle class="t2" cx="863" cy="270" r="1"/>
+<circle class="t2" cx="24" cy="296" r="1"/>
+<circle class="t1" cx="930" cy="415" r="1.8"/>
+<circle class="t3" cx="414" cy="71" r="0.6"/>
+<circle class="t1" cx="392" cy="151" r="0.8"/>
+<circle class="s0" cx="548" cy="93" r="0.6"/>
+<circle class="t1" cx="190" cy="70" r="1.3"/>
+<circle class="s0" cx="200" cy="296" r="1.8"/>
+<g clip-path="url(#c)"><text class="ln ti" style="animation-delay:-24.80s">EPISODE I</text><text class="ln ti" style="animation-delay:-22.69s">THE DATA AWAKENS</text><text class="ln" style="animation-delay:-18.48s">It is a period of scattered data.</text><text class="ln" style="animation-delay:-16.38s">Records drift across spreadsheets</text><text class="ln" style="animation-delay:-14.27s">and legacy systems, and models are</text><text class="ln" style="animation-delay:-12.17s">used by many but understood by few.</text><text class="ln" style="animation-delay:-7.96s">In Pereira, Colombia, a Data &amp; AI</text><text class="ln" style="animation-delay:-5.85s">Engineer takes the slower path:</text><text class="ln" style="animation-delay:-3.75s">build the pipeline by hand, open</text><text class="ln" style="animation-delay:-1.64s">the model, and learn why it works.</text><text class="ln" style="animation-delay:2.57s">Because data only matters once</text><text class="ln" style="animation-delay:4.67s">it becomes a story someone</text><text class="ln" style="animation-delay:6.78s">can act on....</text>
+<rect width="1200" height="110" fill="url(#fade)"/></g>
+
+</svg>
