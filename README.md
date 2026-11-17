@@ -33,7 +33,7 @@
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## 🛰️ `>> pilot profile`
+## 🛰️ `pilot profile`
 
 **Data first. AI understood from the inside.**
 
@@ -58,10 +58,10 @@ class JhonMario:
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## 🧭 `>> flight log`
+## 🧭 `flight log`
 
 <p align="center">
-  <img src="assets/journey.svg" width="100%" alt="Physics Engineering, UTP (2018–2025) → Digital Communicator, Banco de la República (2023–2024) → Junior Data Scientist, Analytix Data (2025) → AI Automation, HUBU (2025) → Data & AI Engineer, R&D&I (now)">
+  <img src="assets/journey.svg" width="100%" alt="Physics Engineering, UTP (2018–2025) → Digital Communicator, Banco de la República (2023–2024) → Junior Data Scientist, Analytix Data (2025) → AI Automation, HUBU (2026) → Data & AI Engineer, R&D&I (now)">
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ class JhonMario:
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## ⚔️ `>> arsenal`
+## ⚔️ `arsenal`
 
 <p align="center"><b>Core systems</b></p>
 <p align="center">
@@ -98,13 +98,13 @@ class JhonMario:
 
 <p align="center">🌱 <b>Padawan training in progress</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,gcp&theme=dark" alt="Docker, Azure, GCP"> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker,azure,gcp&theme=dark" alt="Docker, Azure, GCP">  
   <img src="https://img.shields.io/badge/MLOps-in%20training-FFE81F?style=for-the-badge&labelColor=000000" alt="MLOps">
 </p>
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## 📜 `>> holocron archives`
+## 📜 `holocron archives`
 
 <table>
   <tr>
@@ -133,7 +133,7 @@ class JhonMario:
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## 📡 `>> ship telemetry`
+## 📡 `ship telemetry`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MariusDscientist&background=000000&border=FFE81F&ring=FFE81F&fire=FFE81F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFE81F&sideLabels=4BD5EE&dates=9A9A9A&stroke=FFE81F" alt="GitHub contribution streak" height="165">
@@ -141,7 +141,7 @@ class JhonMario:
 
 <p align="center"><b>⚔️ Defending the galaxy, one commit at a time</b></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/space-shooter.gif" width="100%" alt="A starfighter shooting down my contribution graph">
+  <img src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/space-shooter.gif" width="100%" alt="A Resistance X-wing shooting down my contribution graph">
 </p>
 
 <p align="center">
