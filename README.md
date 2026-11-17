@@ -144,11 +144,6 @@ class JhonMario:
   <img src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/space-shooter.gif" width="100%" alt="A starfighter shooting down my contribution graph">
 </p>
 
-<p align="center"><b>🐍 The lightsaber serpent eats what's left</b></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/snake.svg" width="100%" alt="A yellow snake eating my contribution graph">
-</p>
-
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="May the data be with you. Data that tells stories. Stories that inspire data.">
 </p>
