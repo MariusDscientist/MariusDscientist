@@ -14,18 +14,20 @@ jobs:
   animations:
     runs-on: ubuntu-latest
     steps:
-      # Resistance X-wing that shoots down the contribution graph
+      # Light side: X-wing. Dark side: TIE fighter. Both shoot down the contribution graph.
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Generate space shooter
+      - name: Generate space shooters
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER: ${{ github.repository_owner }}
         run: |
           pip install gh-space-shooter==2.0.5
           mkdir -p dist
-          python scripts/resistance_shooter.py "${{ github.repository_owner }}" --output dist/space-shooter.gif --strategy random --fps 25
+          python scripts/resistance_shooter.py "$USER" --raw-output data.json --output dist/space-shooter.gif --strategy random --fps 25
+          SIDE=dark python scripts/resistance_shooter.py "$USER" --raw-input data.json --output dist/space-shooter-dark.gif --strategy column --fps 25
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

@@ -31,9 +31,11 @@
 
 </details>
 
-<img src="assets/saber.svg" width="100%" alt="">
+<p align="center">
+  <img src="assets/side-light.svg" width="100%" alt="The Light Side: data, order, pipelines you can trust">
+</p>
 
-## 🛰️ `pilot profile`
+## 🔵 `pilot profile`
 
 **Data first. AI understood from the inside.**
 
@@ -47,8 +49,8 @@ class JhonMario:
         self.role       = "Data & AI Engineer · R&D&I"
         self.training   = "Physics Engineering ⚛️ · Universidad Tecnológica de Pereira"
         self.base       = "Pereira, Colombia 🇨🇴"
-        self.ground     = ["ETL pipelines", "data quality", "SQL Server", "SSIS"]
-        self.depth      = ["Transformers from scratch", "PyTorch", "computer vision"]
+        self.light_side = ["ETL pipelines", "data quality", "SQL Server", "SSIS"]
+        self.dark_side  = ["Transformers from scratch", "PyTorch", "computer vision"]
         self.side_quest = "oral storytelling every two weeks at Parque La Julia 🎙️"
         self.languages  = {"Spanish": "native", "English": "B2"}
 
@@ -58,7 +60,7 @@ class JhonMario:
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## 🧭 `flight log`
+## 🔵 `flight log`
 
 <p align="center">
   <img src="assets/journey.svg" width="100%" alt="Physics Engineering, UTP (2018–2025) → Digital Communicator, Banco de la República (2023–2024) → Junior Data Scientist, Analytix Data (2025) → AI Automation, HUBU (2026) → Data & AI Engineer, R&D&I (now)">
@@ -70,74 +72,39 @@ class JhonMario:
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## ⚔️ `arsenal`
+## 🔵 `jedi arsenal`
 
 <p align="center"><b>Core systems</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark" alt="Python, Bash, Linux, Git, GitHub, VS Code">
 </p>
 
-<p align="center"><b>Machine learning & deep learning</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv&theme=dark" alt="PyTorch, scikit-learn, TensorFlow/Keras, OpenCV">
-  <br>
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=yolo&logoColor=FFE81F" alt="YOLOv8">
-  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FFE81F" alt="Transformers">
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFE81F" alt="Jupyter">
-</p>
-
-<p align="center"><b>Data, AI & automation</b></p>
+<p align="center"><b>Data & automation</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=4BD5EE" alt="SQL Server">
   <img src="https://img.shields.io/badge/SSIS-000000?style=for-the-badge&logo=microsoft&logoColor=4BD5EE" alt="SSIS">
   <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=4BD5EE" alt="Power BI">
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=4BD5EE" alt="n8n">
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=4BD5EE" alt="Claude">
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=4BD5EE" alt="Gemini">
 </p>
 
 <p align="center">🌱 <b>Padawan training in progress</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,gcp&theme=dark" alt="Docker, Azure, GCP">  
-  <img src="https://img.shields.io/badge/MLOps-in%20training-FFE81F?style=for-the-badge&labelColor=000000" alt="MLOps">
+  <img src="https://skillicons.dev/icons?i=docker,azure,gcp&theme=dark" alt="Docker, Azure, GCP">
+  <img src="https://img.shields.io/badge/MLOps-in%20training-4BD5EE?style=for-the-badge&labelColor=000000" alt="MLOps">
 </p>
 
 <img src="assets/saber.svg" width="100%" alt="">
 
-## 📜 `holocron archives`
+## 🔵 `jedi archives`
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Custom GPT-like Language Model</h3>
-      <p>A compact GPT trained from scratch in <b>PyTorch</b> to understand Transformers at the tensor level: tokenization, self-attention, the training loop, sampling, and evaluation. Then I varied depth, embedding size, and context window to see what each one buys.</p>
-      <a href="https://github.com/MariusDscientist/GPT_Sancho_mini_education"><img src="https://img.shields.io/badge/Open%20holocron-→-FFE81F?style=flat-square&labelColor=000000" alt="Open repo"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖐️ Hands CAPTCHA</h3>
-      <p>Prove you're human by drawing four digits in the air with your fingertip. <b>OpenCV</b> and <b>MediaPipe</b> track the hand, the strokes become images, and a neural network reads them back.</p>
-      <a href="https://github.com/MariusDscientist/hands_captcha"><img src="https://img.shields.io/badge/Open%20holocron-→-FFE81F?style=flat-square&labelColor=000000" alt="Open repo"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 YOLOv8 Object Detection</h3>
-      <p>A four-class detector trained on 243 images. Class imbalance handled with data augmentation and curriculum learning; learning rate, batch size, and augmentation tuned against mAP and recall.</p>
-    </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>🗄️ End-to-End ETL Pipeline</h3>
       <p>Extraction, transformation, validation, and loading with <b>SQL Server</b> and <b>SSIS</b>, with data quality checks, standardization, and logging for analytical datasets.</p>
     </td>
   </tr>
 </table>
-
-<img src="assets/saber.svg" width="100%" alt="">
-
-## 📡 `ship telemetry`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MariusDscientist&background=000000&border=FFE81F&ring=FFE81F&fire=FFE81F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFE81F&sideLabels=4BD5EE&dates=9A9A9A&stroke=FFE81F" alt="GitHub contribution streak" height="165">
-</p>
 
 <p align="center"><b>⚔️ Defending the galaxy, one commit at a time</b></p>
 <p align="center">
@@ -145,5 +112,72 @@ class JhonMario:
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="May the data be with you. Data that tells stories. Stories that inspire data.">
+  <img src="assets/balance.svg" width="100%" alt="A blue and a red lightsaber clash: every engineer has two sides">
+</p>
+
+<p align="center">
+  <img src="assets/side-dark.svg" width="100%" alt="The Dark Side: AI from the inside, forbidden knowledge">
+</p>
+
+> *Some call it forbidden knowledge. I call it reading the source.*
+>
+> Calling a model is easy. Opening it up (attention heads, loss curves, gradients) is where the real power is.
+
+## 🔴 `sith arsenal`
+
+<p align="center"><b>Machine learning & deep learning</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv&theme=dark" alt="PyTorch, scikit-learn, TensorFlow/Keras, OpenCV">
+  <br>
+  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=yolo&logoColor=FF2B2B" alt="YOLOv8">
+  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FF2B2B" alt="Transformers">
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FF2B2B" alt="Jupyter">
+</p>
+
+<p align="center"><b>LLMs</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=FF2B2B" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=FF2B2B" alt="Gemini">
+</p>
+
+<img src="assets/saber-red.svg" width="100%" alt="">
+
+## 🔴 `sith holocrons`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Custom GPT-like Language Model</h3>
+      <p>A compact GPT trained from scratch in <b>PyTorch</b> to understand Transformers at the tensor level: tokenization, self-attention, the training loop, sampling, and evaluation. Then I varied depth, embedding size, and context window to see what each one buys.</p>
+      <a href="https://github.com/MariusDscientist/GPT_Sancho_mini_education"><img src="https://img.shields.io/badge/Open%20holocron-→-FF2B2B?style=flat-square&labelColor=000000" alt="Open repo"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖐️ Hands CAPTCHA</h3>
+      <p>Prove you're human by drawing four digits in the air with your fingertip. <b>OpenCV</b> and <b>MediaPipe</b> track the hand, the strokes become images, and a neural network reads them back.</p>
+      <a href="https://github.com/MariusDscientist/hands_captcha"><img src="https://img.shields.io/badge/Open%20holocron-→-FF2B2B?style=flat-square&labelColor=000000" alt="Open repo"></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎯 YOLOv8 Object Detection</h3>
+      <p>A four-class detector trained on 243 images. Class imbalance handled with data augmentation and curriculum learning; learning rate, batch size, and augmentation tuned against mAP and recall.</p>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/saber-red.svg" width="100%" alt="">
+
+## 🔴 `imperial telemetry`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MariusDscientist&background=000000&border=FF2B2B&ring=FF2B2B&fire=FF2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF2B2B&sideLabels=FF8A8A&dates=9A9A9A&stroke=FF2B2B" alt="GitHub contribution streak" height="165">
+</p>
+
+<p align="center"><b>🔴 The Empire strikes back, one commit at a time</b></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/space-shooter-dark.gif" width="100%" alt="A TIE fighter shooting down my contribution graph">
+</p>
+
+<p align="center">
+  <img src="assets/footer-dark.svg" width="100%" alt="May the data be with you. Data that tells stories. Stories that inspire data.">
 </p>
