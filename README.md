@@ -61,7 +61,7 @@ class JhonMario:
 ## 🧭 `>> flight log`
 
 <p align="center">
-  <img src="assets/journey.svg" width="100%" alt="Physics Engineering, UTP (2018–2025) → Digital Literacy, Banco de la República (2023–2024) → Junior Data Scientist, Analytix Data (2025) → AI Automation, HUBU (2025) → Data & AI Engineer, R&D&I (now)">
+  <img src="assets/journey.svg" width="100%" alt="Physics Engineering, UTP (2018–2025) → Digital Communicator, Banco de la República (2023–2024) → Junior Data Scientist, Analytix Data (2025) → AI Automation, HUBU (2025) → Data & AI Engineer, R&D&I (now)">
 </p>
 
 <p align="center">
