@@ -139,11 +139,14 @@ class JhonMario:
   <img src="https://streak-stats.demolab.com?user=MariusDscientist&background=000000&border=FFE81F&ring=FFE81F&fire=FFE81F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFE81F&sideLabels=4BD5EE&dates=9A9A9A&stroke=FFE81F" alt="GitHub contribution streak" height="165">
 </p>
 
+<p align="center"><b>⚔️ Defending the galaxy, one commit at a time</b></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/snake-dark.svg">
-    <img alt="Contribution graph being eaten" src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/space-shooter.gif" width="100%" alt="A starfighter shooting down my contribution graph">
+</p>
+
+<p align="center"><b>🐍 The lightsaber serpent eats what's left</b></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MariusDscientist/MariusDscientist/output/snake.svg" width="100%" alt="A yellow snake eating my contribution graph">
 </p>
 
 <p align="center">
