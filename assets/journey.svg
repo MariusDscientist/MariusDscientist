@@ -145,8 +145,28 @@
 <defs><radialGradient id="p3" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".35" stop-color="#b48ad9"/><stop offset="1" stop-color="#05060d"/></radialGradient></defs>
 <circle cx="835" cy="150" r="17" fill="url(#p3)"/>
 <text class="yr" x="835" y="64">2026</text><text class="ro" x="835" y="88">AI AUTOMATION</text><text class="or" x="835" y="110">HUBU</text>
-<defs><radialGradient id="p4" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".35" stop-color="#FFE81F"/><stop offset="1" stop-color="#05060d"/></radialGradient></defs>
-<circle class="pulse" cx="1070" cy="190" r="25"/>
-<circle cx="1070" cy="190" r="25" fill="url(#p4)"/>
+<defs>
+<radialGradient id="p4" cx="38%" cy="32%" r="78%"><stop offset="0" stop-color="#d9dde3"/><stop offset=".55" stop-color="#7d838d"/><stop offset="1" stop-color="#1a1c21"/></radialGradient>
+<radialGradient id="dish" cx="60%" cy="60%" r="70%"><stop offset="0" stop-color="#3a3e46"/><stop offset="1" stop-color="#9aa1ab"/></radialGradient>
+<clipPath id="dsclip"><circle cx="1070" cy="190" r="28"/></clipPath>
+</defs>
+<style>
+.charge{animation:charge 4s ease-in infinite}
+@keyframes charge{0%,55%{opacity:0;r:1}85%{opacity:1;r:4}100%{opacity:0;r:2}}
+.beam{stroke:#5CFF6A;stroke-width:3;stroke-linecap:round;opacity:0;animation:beam 4s ease-out infinite}
+@keyframes beam{0%,84%{opacity:0}86%{opacity:1}96%{opacity:.6}100%{opacity:0}}
+.dsp{fill:none;stroke:#5CFF6A;stroke-width:1.5;transform-box:fill-box;transform-origin:center;animation:pu 4s ease-out infinite}
+</style>
+<circle class="dsp" cx="1070" cy="190" r="28"/>
+<circle cx="1070" cy="190" r="28" fill="url(#p4)"/>
+<g clip-path="url(#dsclip)" stroke="#3b3f47" stroke-width=".8" fill="none" opacity=".75">
+<path d="M1042,184 h56 M1042,196 h56" stroke="#2a2d33" stroke-width="1.4"/>
+<path d="M1046,176 h48 M1047,206 h46 M1052,168 h36 M1052,213 h36"/>
+<path d="M1060,163 v20 M1080,163 v20 M1056,198 v18 M1072,198 v20 M1088,198 v14 M1050,170 v12"/>
+</g>
+<circle cx="1081" cy="178" r="8" fill="url(#dish)" stroke="#2a2d33" stroke-width=".8"/>
+<circle cx="1081" cy="178" r="2" fill="#2a2d33"/>
+<circle class="charge" cx="1081" cy="178" r="1" fill="#5CFF6A"/>
+<line class="beam" x1="1081" y1="178" x2="1160" y2="120"/>
 <text class="yr" x="1070" y="248">NOW</text><text class="ro" x="1070" y="272">DATA &amp; AI ENGINEER</text><text class="or" x="1070" y="294">R&amp;D&amp;I</text>
 </svg>
