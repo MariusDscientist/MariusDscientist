@@ -14,14 +14,8 @@ jobs:
   animations:
     runs-on: ubuntu-latest
     steps:
-      # Lightsaber snake: yellow snake, hyperspace-blue contributions on black
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=#FFE81F&color_background=#000000&color_dots=#11161f,#0b3d5c,#1572a1,#2fb6e0,#9ff3ff
-
-      # Galaga-style ship that shoots down the contribution graph
+      # Galaga-style ship that shoots down the contribution graph.
+      # Runs first: snk runs in a root container and leaves dist/ unwritable.
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -30,7 +24,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pip install gh-space-shooter==2.0.5
+          mkdir -p dist
           gh-space-shooter "${{ github.repository_owner }}" --output dist/space-shooter.gif --strategy random --fps 25
+
+      # Lightsaber snake: yellow snake, hyperspace-blue contributions on black
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#FFE81F&color_background=#000000&color_dots=#11161f,#0b3d5c,#1572a1,#2fb6e0,#9ff3ff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
